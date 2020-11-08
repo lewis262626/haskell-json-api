@@ -1,6 +1,6 @@
 module Main where
 
+
 main :: IO ()
 main = do
-  putStrLn "hello world"
-  putStrLn " and Lewis"
+  putStrLn "Starting web server..."
